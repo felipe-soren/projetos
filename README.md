@@ -24,3 +24,11 @@
 ### 
 
 [Aplicação GoBarber desenvolvida através de curso da RocketSeat](https://github.com/felipe-soren/riot_api_backend)
+
+### 
+
+<img src="http://blog.redspark.io/wp-content/uploads/2015/09/react-578x270.png" width="100">
+
+###
+
+[Front End de aplicação para avaliação de jogadores do jogo league of legends](https://github.com/felipe-soren/riot_api_frontend)
